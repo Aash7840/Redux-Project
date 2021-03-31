@@ -1,0 +1,17 @@
+.Action
+{
+    opacity: 0;
+}
+
+
+tr:hover .Action {
+    opacity: 1;
+}
+
+
+tbody td a {
+    color:#6200ea;
+}
+tbody td a:hover {
+    color: #6200ea;
+}
